@@ -1,6 +1,5 @@
 ![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
 
-![Snake Animation](https://github.com/masudrana53/masudrana53/blob/output/github-contribution-grid-snake.svg)
 
 
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
