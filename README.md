@@ -1,7 +1,4 @@
 ![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
-
-
-
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 <h3 align="center">Full Stack Java Developer | UI/UX Designer | Logos and Branding Designer</h3>
 
